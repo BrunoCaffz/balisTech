@@ -13,7 +13,7 @@ Bem-vindo ao projeto **baliSTech Fintech** – uma aplicação web simples e mod
 ✅ Edição e exclusão individual de cada meta financeira  
 ✅ Exibição do saldo atual com possibilidade de adicionar valor  
 ✅ Gráfico de pizza mostrando a distribuição das metas 🎯  
-✅ Responsivo `#232946` + `#eebbc3` + `#b8c1ec`  
+✅ Responsivo 
 ✅ Logout com destruição da sessão
 
 ---
